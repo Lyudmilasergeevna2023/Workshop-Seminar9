@@ -1,0 +1,14 @@
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\bin\Debug\net7.0\Task64.exe
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\bin\Debug\net7.0\Task64.deps.json
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\bin\Debug\net7.0\Task64.runtimeconfig.json
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\bin\Debug\net7.0\Task64.dll
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\bin\Debug\net7.0\Task64.pdb
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\obj\Debug\net7.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\obj\Debug\net7.0\Task64.AssemblyInfoInputs.cache
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\obj\Debug\net7.0\Task64.AssemblyInfo.cs
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\obj\Debug\net7.0\Task64.csproj.CoreCompileInputs.cache
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\obj\Debug\net7.0\Task64.dll
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\obj\Debug\net7.0\refint\Task64.dll
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\obj\Debug\net7.0\Task64.pdb
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\obj\Debug\net7.0\Task64.genruntimeconfig.cache
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Знакомство с языками программирования\Семинар 9\workshop-seminar9\Task64\obj\Debug\net7.0\ref\Task64.dll
